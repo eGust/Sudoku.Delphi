@@ -1,0 +1,3 @@
+{$IFDEF DELPHI_2009_UP}
+inline;
+{$ENDIF}
